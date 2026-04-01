@@ -1,125 +1,152 @@
-<!-- Animated Header -->
+<!-- Gradient Header -->
+
 <h1 align="center">🚀 Lalit Kumar</h1>
 
 <p align="center">
-<a href="https://github.com/LK-Prajapati07">
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=25&center=true&vCenter=true&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;MERN+Stack+Developer"
-alt="Lalit Kumar" />
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;MERN+Stack+Developer;Building+Scalable+Projects;Future+AI+Engineer" />
 </p>
-
-<hr>
-
-<!-- GitHub Stats -->
-<div align="center">
-<a href="https://github.com/LK-Prajapati07">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LK-Prajapati07&theme=dark" width="32%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LK-Prajapati07&theme=dark" width="32%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LK-Prajapati07&theme=dark" width="32%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LK-Prajapati07&theme=dark" width="100%">
-</a>
-</div>
-
-<h3 align="center">📈 Contribution Activity</h3>
 
 <p align="center">
-<a href="https://github.com/LK-Prajapati07">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LK-Prajapati07&theme=github-compact"/>
-</a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Web-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Deep%20Learning%20%7C%20DSA-00C7B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Goal-Software%20%26%20AI%20Engineer-ff69b4?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🌟 About Me
+## 🧑‍💻 About Me
 
-🎓 B.Tech Computer Science student (AI & ML Specialization)  
-💡 Passionate about building real-world applications using AI/ML and Full Stack Development  
-🚀 Continuously learning and improving through hands-on projects  
+```yaml
+Name: Lalit Kumar
+Education: B.Tech CSE (AI & ML)
+Focus: Building real-world AI + Web applications
+Strength: Consistency + Practical Learning
+Goal: Become a Software & AI Engineer
+```
 
----
-
-## 💻 Technical Skills
-
-- **Languages:** Java, Python (Basic), C, JavaScript  
-- **Frontend & Backend:** React.js, Node.js (MERN Stack)  
-- **Databases:** MongoDB, MySQL  
-- **Tools & Platforms:** Git, VS Code, Android Studio  
-- **Web Technologies:** HTML, CSS, REST APIs, Axios  
-- **Core Concepts:** Data Structures & Algorithms (Basic), AI & ML  
+💡 I build real-world solutions using **AI, ML & Full Stack Development**
+🚀 Focused on scalable systems & practical implementation
+📈 Learning by doing — projects > theory
 
 ---
 
-## ⚙️ Technical Profile
+## 🚧 Currently Working On (Big Project)
 
-Strong foundation in:
-- Java Programming & Android Development  
-- Full Stack Web Development (MERN)  
-- REST API Integration  
-- User-centric system design  
+🔥 **My First Major Project (ERP-like System)**
 
-Currently focusing on applying **Artificial Intelligence & Machine Learning** to solve practical problems.
+✔️ Multi-user system (Students + Teachers)
+✔️ Real-time interaction & data handling
+✔️ Backend scalability & performance focus
+✔️ AI integration (future scope)
+
+💡 *This project represents my transition from learner → builder*
 
 ---
 
-## 📚 Projects
+## ⚡ Tech Arsenal
 
-🔹 **Learning Management System (LMS)**  
-→ Platform to create, manage, and track digital learning  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,python,c,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=6" />
+</p>
 
-🔹 **Question Paper Generator System**  
-→ Automated exam paper creation using logic & AI  
+---
 
-🔹 **Indian Tourism Website**  
-→ Informational and interactive travel platform  
+## 🚀 Featured Projects
 
-📌 Explore my repositories to see my work and growth 🚀  
+<div align="center">
+
+| Project                         | Description                          | Tech       |
+| ------------------------------- | ------------------------------------ | ---------- |
+| 📚 **LMS System**               | Course & student management platform | MERN       |
+| 🧠 **Question Paper Generator** | AI-based automated exam system       | Logic + AI |
+| 🌏 **Tourism Website**          | Interactive travel experience        | Web Stack  |
+
+</div>
+
+📌 *Explore repositories to see real implementations and growth*
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LK-Prajapati07&theme=tokyonight" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LK-Prajapati07&theme=tokyonight" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LK-Prajapati07&theme=tokyonight" width="32%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LK-Prajapati07&theme=tokyonight" width="100%">
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LK-Prajapati07&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="mailto:prajapatilalitkumar263@outlook.com">
-<img src="https://img.shields.io/badge/Email-%230077B5.svg?logo=gmail&logoColor=white">
-</a>
+<p align="center">
+  <a href="mailto:prajapatilalitkumar263@outlook.com">
+    <img src="https://img.shields.io/badge/Email-00C7B7?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-<a href="https://www.linkedin.com/in/lalit-kumar-1b64143a7">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-</a>
+  <a href="https://www.linkedin.com/in/lalit-kumar-1b64143a7">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<a href="https://github.com/LK-Prajapati07">
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
-</a>
+  <a href="https://github.com/LK-Prajapati07">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=LK-Prajapati07&theme=onedark&no-frame=true&margin-w=10"/>
-
----
-
-## 🔝 Top Contributions
-
-<img src="https://github-contributor-stats.vercel.app/api?username=LK-Prajapati07&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-
----
-
-## ✍️ Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
----
-
-## 😂 Dev Meme
-
 <p align="center">
-<img src="https://rm.up.railway.app/" width="500px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LK-Prajapati07&theme=tokyonight&no-frame=true&margin-w=8"/>
 </p>
 
 ---
 
+## 🔥 Top Contributions
+
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=LK-Prajapati07&label=Profile%20Views&color=11&icon=5&pretty=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=LK-Prajapati07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## 🧠 Developer Mindset
+
+<p align="center">
+  <b style="font-size:18px;">
+  🔥 Try again. Fail again. Fail better. <br>
+  💡 Failure is not the opposite of success — it is part of it.
+  </b>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* 🔍 Deep Learning
+* ⚡ Backend Scalability (FastAPI / Node.js)
+* 🧩 Data Structures & Algorithms
+* 🤖 AI-based Real Projects
+
+---
+
+<p align="center">
+  ⭐ <b>Code • Learn • Build • Repeat</b> ⭐
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=LK-Prajapati07&label=Profile%20Views&color=0&icon=5&pretty=true"/>
 </p>
