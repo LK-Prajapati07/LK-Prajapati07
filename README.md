@@ -7,7 +7,7 @@
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center" width="40%" style="border: none;">
-      <img src="YOUR_IMAGE_URL_HERE" width="220px" style="border-radius: 50%; border: 5px solid #00F7FF; box-shadow: 0px 0px 20px #00F7FF;" alt="Lalit Kumar"/>
+      <img src="https://github.com/LK-Prajapati07.png" width="220px" style="border-radius: 50%; border: 5px solid #00F7FF; box-shadow: 0px 0px 20px #00F7FF;" alt="Lalit Kumar"/>
       <br><br>
       <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=300&lines=Lalit+Kumar;AI+%26+ML+Engineer;Full+Stack+Dev" />
     </td>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🏗️ Core Engineering Projects
+## 🏗️ Major Engineering Projects
 
 <div align="center">
   <table style="border-collapse: collapse; width: 100%; border: none;">
@@ -63,7 +63,7 @@
 
 ---
 
-## 📊 Performance & Contributions
+## 📊 Analytics & Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LK-Prajapati07&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
