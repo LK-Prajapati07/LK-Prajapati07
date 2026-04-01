@@ -103,7 +103,7 @@
 
 <p align="center">
 
-<a href="mailto:prajapatilalitkumar263@outlook.com">
+<a href="mailto:lalit.kumar.in07@gmail.com">
 <img src="https://img.shields.io/badge/Email-00C7B7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
