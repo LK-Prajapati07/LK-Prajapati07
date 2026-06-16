@@ -1,164 +1,213 @@
-<!-- Premium Header -->
+```md
+# 👋 Hi, I'm Lalit Kumar
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=260&section=header&text=Lalit%20Kumar&fontSize=75&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%"/>
-</div>
+## AI Engineer | Full Stack Developer | Computer Science Student
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;MERN+Stack+Developer;Building+Real+World+Projects" />
-</p>
+Passionate about building real-world software solutions using  
+**Artificial Intelligence, Machine Learning, and Full Stack Development.**
+
+I focus on creating scalable applications, solving practical problems,
+and continuously improving my engineering skills.
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎓 B.Tech Computer Science (AI & ML Specialization)
-💡 Passionate about building **real-world applications using AI, ML & Full Stack Development**
-🚀 Focused on creating scalable systems and solving practical problems
+🎓 B.Tech Computer Science  
+Specialization: Artificial Intelligence & Machine Learning
 
-### 🔥 What I Do
+💡 Interested in:
+- AI-powered applications
+- Full stack development
+- Scalable backend systems
+- Real-world software engineering
 
-* Build **AI-powered web applications**
-* Develop **scalable backend systems**
-* Work on **multi-user platforms (ERP-style systems)**
+🚀 Current Goal:
 
-### 🧠 Mindset
+Moving from learning technologies to building production-level systems.
 
-> 🔥 Try again. Fail again. Fail better.
-> 💡 Failure is not the opposite of success — it is part of it.
+---
+
+## 🔥 What I Build
+
+### 🤖 AI Applications
+- Intelligent automation systems
+- AI-based tools
+- Data-driven applications
+
+### 🌐 Full Stack Applications
+- Responsive web applications
+- REST API development
+- Database-driven systems
+
+### ⚙️ Scalable Platforms
+- Multi-user applications
+- ERP-style solutions
+- Performance-focused systems
 
 ---
 
 ## 🚧 Currently Working On
 
-### 🚀 AI-Based ERP System (Flagship Project)
+# 🚀 AI-Based ERP System
 
-* 👥 Multi-user system (Students + Teachers)
-* ⚡ Real-time data handling
-* 🧠 Future AI integration
-* 🏗️ Focus on scalability & performance
+A scalable platform designed for educational management.
 
-📌 *This project represents my shift from learning → building real systems*
+### Features:
 
----
+- 👥 Multiple user roles  
+  - Students
+  - Teachers
+  - Administrators
 
-## ⚡ Tech Stack
+- ⚡ Real-time data management
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,c,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=6" />
-</p>
+- 🧠 Future AI Integration
 
----
+- 🏗️ Scalable architecture approach
 
-## 🚀 Projects
-
-<div align="center">
-
-| 🚀 Project                        | 💡 Description                           | ⚙️ Tech       |
-| --------------------------------- | ---------------------------------------- | ------------- |
-| 📚 **Learning Management System** | Platform to manage courses and users     | MERN Stack    |
-| 🧠 **Question Paper Generator**   | Automated exam creation using logic & AI | Python        |
-| 🌏 **Tourism Website**            | Interactive travel platform              | HTML, CSS, JS |
-
-</div>
-
-📌 *Explore my repositories to see my growth and real-world work*
+This project represents my journey from learning concepts
+to engineering practical solutions.
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠 Technology Stack
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LK-Prajapati07&theme=tokyonight" width="32%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LK-Prajapati07&theme=tokyonight" width="32%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LK-Prajapati07&theme=tokyonight" width="32%">
-</p>
+### Programming Languages
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LK-Prajapati07&theme=tokyonight" width="100%">
-</p>
+- Java
+- JavaScript
+- Python
+- C
 
----
+### Frontend Development
 
-## 📈 Contribution Activity
+- HTML
+- CSS
+- JavaScript
+- React.js
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LK-Prajapati07&theme=tokyo-night&hide_border=true"/>
-</p>
+### Backend Development
 
----
+- Node.js
+- Express.js
+- REST APIs
 
-## 🛠 Technical Skills
+### Databases
 
-* **Languages:** Java, JavaScript, Python (Basic), C
-* **Frontend & Backend:** React.js, Node.js (MERN Stack)
-* **Databases:** MongoDB, MySQL
-* **Tools:** Git, GitHub, VS Code
-* **Web:** HTML, CSS, REST APIs, Axios
-* **Core:** Data Structures & Algorithms, AI & ML
+- MongoDB
+- MySQL
 
----
+### Tools
 
-## 📬 Contact Me
+- Git
+- GitHub
+- VS Code
 
-<p align="center">
+### Core Skills
 
-<a href="mailto:lalit.kumar.in07@gmail.com">
-<img src="https://img.shields.io/badge/Email-00C7B7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/lalit-kumar-1b64143a7">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/LK-Prajapati07">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-💼 Open for Internships • Collaboration • Opportunities
-</p>
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Artificial Intelligence
+- Machine Learning Fundamentals
+- Problem Solving
 
 ---
 
-## 🏆 Achievements
+# 🚀 Projects
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LK-Prajapati07&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
+## 📚 Learning Management System
 
----
+A platform for managing courses, students, and learning resources.
 
-## 🔥 Top Contributions
+Technology:
 
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=LK-Prajapati07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
+MERN Stack  
+(MongoDB, Express.js, React.js, Node.js)
 
 ---
 
-## 💭 Developer Thought
+## 🧠 Question Paper Generator
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+An automated system for generating question papers using logical rules
+with future AI enhancement possibilities.
 
----
+Technology:
 
-## 😂 Dev Fun
-
-<p align="center">
-<img src="https://rm.up.railway.app/" width="500px"/>
-</p>
+Python
 
 ---
 
-<p align="center">
-⭐ <b>Code • Learn • Build • Repeat</b> ⭐
-</p>
+## 🌏 Tourism Website
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=LK-Prajapati07&label=Profile%20Views&color=0&icon=5&pretty=true"/>
-</p> do not show any image
+Interactive travel website providing destination information
+and user-friendly browsing experience.
+
+Technology:
+
+HTML, CSS, JavaScript
+
+---
+
+# 📈 GitHub Journey
+
+My repositories represent:
+
+- Continuous learning
+- Practical implementation
+- Problem solving
+- Real-world project development
+
+I believe consistency and improvement create strong developers.
+
+---
+
+# 🧠 Developer Mindset
+
+> Try again.  
+> Fail again.  
+> Fail better.
+
+Failure is not the opposite of success.  
+Failure is part of the process of becoming better.
+
+---
+
+# 🎯 Current Focus
+
+- Strengthening Data Structures & Algorithms
+- Building advanced MERN stack projects
+- Learning AI & ML implementation
+- Improving software architecture skills
+
+---
+
+# 🤝 Open For
+
+- Internship Opportunities
+- Software Development Projects
+- Collaboration
+- Open Source Contributions
+
+---
+
+# 📬 Contact Me
+
+Email:
+
+lalit.kumar.in07@gmail.com
+
+
+LinkedIn:
+
+https://www.linkedin.com/in/lalit-kumar-1b64143a7
+
+
+GitHub:
+
+https://github.com/LK-Prajapati07
+
+---
+
+⭐ Code • Learn • Build • Repeat ⭐
+```
