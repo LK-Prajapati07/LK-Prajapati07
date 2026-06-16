@@ -1,213 +1,164 @@
-```md
-# 👋 Hi, I'm Lalit Kumar
+<!-- Premium Header -->
 
-## AI Engineer | Full Stack Developer | Computer Science Student
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=260&section=header&text=Lalit%20Kumar&fontSize=75&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%"/>
+</div>
 
-Passionate about building real-world software solutions using  
-**Artificial Intelligence, Machine Learning, and Full Stack Development.**
-
-I focus on creating scalable applications, solving practical problems,
-and continuously improving my engineering skills.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;MERN+Stack+Developer;Building+Real+World+Projects" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎓 B.Tech Computer Science  
-Specialization: Artificial Intelligence & Machine Learning
+🎓 B.Tech Computer Science (AI & ML Specialization)
+💡 Passionate about building **real-world applications using AI, ML & Full Stack Development**
+🚀 Focused on creating scalable systems and solving practical problems
 
-💡 Interested in:
-- AI-powered applications
-- Full stack development
-- Scalable backend systems
-- Real-world software engineering
+### 🔥 What I Do
 
-🚀 Current Goal:
+* Build **AI-powered web applications**
+* Develop **scalable backend systems**
+* Work on **multi-user platforms (ERP-style systems)**
 
-Moving from learning technologies to building production-level systems.
+### 🧠 Mindset
 
----
-
-## 🔥 What I Build
-
-### 🤖 AI Applications
-- Intelligent automation systems
-- AI-based tools
-- Data-driven applications
-
-### 🌐 Full Stack Applications
-- Responsive web applications
-- REST API development
-- Database-driven systems
-
-### ⚙️ Scalable Platforms
-- Multi-user applications
-- ERP-style solutions
-- Performance-focused systems
+> 🔥 Try again. Fail again. Fail better.
+> 💡 Failure is not the opposite of success — it is part of it.
 
 ---
 
 ## 🚧 Currently Working On
 
-# 🚀 AI-Based ERP System
+### 🚀 AI-Based ERP System (Flagship Project)
 
-A scalable platform designed for educational management.
+* 👥 Multi-user system (Students + Teachers)
+* ⚡ Real-time data handling
+* 🧠 Future AI integration
+* 🏗️ Focus on scalability & performance
 
-### Features:
-
-- 👥 Multiple user roles  
-  - Students
-  - Teachers
-  - Administrators
-
-- ⚡ Real-time data management
-
-- 🧠 Future AI Integration
-
-- 🏗️ Scalable architecture approach
-
-This project represents my journey from learning concepts
-to engineering practical solutions.
+📌 *This project represents my shift from learning → building real systems*
 
 ---
 
-## 🛠 Technology Stack
+## ⚡ Tech Stack
 
-### Programming Languages
-
-- Java
-- JavaScript
-- Python
-- C
-
-### Frontend Development
-
-- HTML
-- CSS
-- JavaScript
-- React.js
-
-### Backend Development
-
-- Node.js
-- Express.js
-- REST APIs
-
-### Databases
-
-- MongoDB
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-
-### Core Skills
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Artificial Intelligence
-- Machine Learning Fundamentals
-- Problem Solving
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,python,c,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=6" />
+</p>
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
-## 📚 Learning Management System
+<div align="center">
 
-A platform for managing courses, students, and learning resources.
+| 🚀 Project                        | 💡 Description                           | ⚙️ Tech       |
+| --------------------------------- | ---------------------------------------- | ------------- |
+| 📚 **Learning Management System** | Platform to manage courses and users     | MERN Stack    |
+| 🧠 **Question Paper Generator**   | Automated exam creation using logic & AI | Python        |
+| 🌏 **Tourism Website**            | Interactive travel platform              | HTML, CSS, JS |
 
-Technology:
+</div>
 
-MERN Stack  
-(MongoDB, Express.js, React.js, Node.js)
-
----
-
-## 🧠 Question Paper Generator
-
-An automated system for generating question papers using logical rules
-with future AI enhancement possibilities.
-
-Technology:
-
-Python
+📌 *Explore my repositories to see my growth and real-world work*
 
 ---
 
-## 🌏 Tourism Website
+## 📊 GitHub Analytics
 
-Interactive travel website providing destination information
-and user-friendly browsing experience.
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LK-Prajapati07&theme=tokyonight" width="32%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LK-Prajapati07&theme=tokyonight" width="32%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LK-Prajapati07&theme=tokyonight" width="32%">
+</p>
 
-Technology:
-
-HTML, CSS, JavaScript
-
----
-
-# 📈 GitHub Journey
-
-My repositories represent:
-
-- Continuous learning
-- Practical implementation
-- Problem solving
-- Real-world project development
-
-I believe consistency and improvement create strong developers.
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LK-Prajapati07&theme=tokyonight" width="100%">
+</p>
 
 ---
 
-# 🧠 Developer Mindset
+## 📈 Contribution Activity
 
-> Try again.  
-> Fail again.  
-> Fail better.
-
-Failure is not the opposite of success.  
-Failure is part of the process of becoming better.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LK-Prajapati07&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-# 🎯 Current Focus
+## 🛠 Technical Skills
 
-- Strengthening Data Structures & Algorithms
-- Building advanced MERN stack projects
-- Learning AI & ML implementation
-- Improving software architecture skills
-
----
-
-# 🤝 Open For
-
-- Internship Opportunities
-- Software Development Projects
-- Collaboration
-- Open Source Contributions
+* **Languages:** Java, JavaScript, Python (Basic), C
+* **Frontend & Backend:** React.js, Node.js (MERN Stack)
+* **Databases:** MongoDB, MySQL
+* **Tools:** Git, GitHub, VS Code
+* **Web:** HTML, CSS, REST APIs, Axios
+* **Core:** Data Structures & Algorithms, AI & ML
 
 ---
 
-# 📬 Contact Me
+## 📬 Contact Me
 
-Email:
+<p align="center">
 
-lalit.kumar.in07@gmail.com
+<a href="mailto:lalit.kumar.in07@gmail.com">
+<img src="https://img.shields.io/badge/Email-00C7B7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/lalit-kumar-1b64143a7">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-LinkedIn:
+<a href="https://github.com/LK-Prajapati07">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-https://www.linkedin.com/in/lalit-kumar-1b64143a7
+</p>
 
-
-GitHub:
-
-https://github.com/LK-Prajapati07
+<p align="center">
+💼 Open for Internships • Collaboration • Opportunities
+</p>
 
 ---
 
-⭐ Code • Learn • Build • Repeat ⭐
-```
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=LK-Prajapati07&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🔥 Top Contributions
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=LK-Prajapati07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## 💭 Developer Thought
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 😂 Dev Fun
+
+<p align="center">
+<img src="https://rm.up.railway.app/" width="500px"/>
+</p>
+
+---
+
+<p align="center">
+⭐ <b>Code • Learn • Build • Repeat</b> ⭐
+</p>
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=LK-Prajapati07&label=Profile%20Views&color=0&icon=5&pretty=true"/>
+</p> do not show any image change it and rewrite this file
