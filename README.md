@@ -1,4 +1,4 @@
-make more premium profile and write readme.md file base of my previous readme.md file and my current focus <!-- Premium Header -->
+ <!-- Premium Header -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=260&section=header&text=Lalit%20Kumar&fontSize=75&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%"/>
