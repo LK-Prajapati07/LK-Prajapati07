@@ -1,321 +1,164 @@
-```md
-# < Lalit Kumar />
+make more premium profile and write readme.md file base of my previous readme.md file and my current focus <!-- Premium Header -->
 
-## AI Engineer • Full Stack Developer • Problem Solver
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=260&section=header&text=Lalit%20Kumar&fontSize=75&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%"/>
+</div>
 
-### Building intelligent applications with AI, ML and modern web technologies.
-
----
-
-## 👨‍💻 About Me
-
-Hi, I'm **Lalit Kumar**, a Computer Science Engineering student specializing in  
-**Artificial Intelligence & Machine Learning**.
-
-I am passionate about designing and developing software that solves real-world problems.
-My main focus is combining **AI capabilities with scalable full-stack applications**.
-
-Currently improving myself in:
-
-- Advanced MERN Stack Development
-- Data Structures & Algorithms
-- Artificial Intelligence & Machine Learning
-- Backend Architecture
-- Scalable System Design
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+ML+Enthusiast;MERN+Stack+Developer;Building+Real+World+Projects" />
+</p>
 
 ---
 
-# 🚀 Engineering Focus
+## 🧑‍💻 About Me
 
-## 🤖 Artificial Intelligence
+🎓 B.Tech Computer Science (AI & ML Specialization)
+💡 Passionate about building **real-world applications using AI, ML & Full Stack Development**
+🚀 Focused on creating scalable systems and solving practical problems
 
-Building intelligent systems using:
+### 🔥 What I Do
 
-- Machine Learning concepts
-- Automation logic
-- AI-powered applications
-- Data-driven solutions
+* Build **AI-powered web applications**
+* Develop **scalable backend systems**
+* Work on **multi-user platforms (ERP-style systems)**
 
----
+### 🧠 Mindset
 
-## 🌐 Full Stack Development
-
-Creating complete applications using:
-
-Frontend:
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-
-Backend:
-- Node.js
-- Express.js
-- REST API Architecture
-
-Database:
-- MongoDB
-- MySQL
+> 🔥 Try again. Fail again. Fail better.
+> 💡 Failure is not the opposite of success — it is part of it.
 
 ---
 
-## ⚙️ Backend & System Design
+## 🚧 Currently Working On
 
-Learning and implementing:
+### 🚀 AI-Based ERP System (Flagship Project)
 
-- Authentication Systems
-- Role Based Access Control
-- API Design
-- Database Modeling
-- Performance Optimization
-- Scalable Architecture
+* 👥 Multi-user system (Students + Teachers)
+* ⚡ Real-time data handling
+* 🧠 Future AI integration
+* 🏗️ Focus on scalability & performance
 
----
-
-# 🚧 Current Flagship Project
-
-# AI-Based ERP System
-
-A real-world scalable educational management platform.
-
-## Project Vision
-
-Creating a system that connects students, teachers,
-and administrators through one intelligent platform.
-
-## Core Features
-
-### User Management
-
-- Student Dashboard
-- Teacher Dashboard
-- Authentication System
-- Multiple User Roles
-
-### Data Management
-
-- Real-time information handling
-- Structured database design
-- Secure data flow
-
-### Future AI Integration
-
-Planning features like:
-
-- AI Assistant
-- Smart Analytics
-- Automated Reports
-- Intelligent Recommendations
+📌 *This project represents my shift from learning → building real systems*
 
 ---
 
-# 🏗 Featured Projects
+## ⚡ Tech Stack
 
-
-## 📚 Learning Management System
-
-A complete platform for digital learning management.
-
-Features:
-
-- Course Management
-- User Authentication
-- Student Management
-- Dashboard System
-
-Technology:
-
-MERN Stack
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,python,c,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=6" />
+</p>
 
 ---
 
-## 🧠 Question Paper Generator
+## 🚀 Projects
 
-An intelligent system designed for automated exam creation.
+<div align="center">
 
-Features:
+| 🚀 Project                        | 💡 Description                           | ⚙️ Tech       |
+| --------------------------------- | ---------------------------------------- | ------------- |
+| 📚 **Learning Management System** | Platform to manage courses and users     | MERN Stack    |
+| 🧠 **Question Paper Generator**   | Automated exam creation using logic & AI | Python        |
+| 🌏 **Tourism Website**            | Interactive travel platform              | HTML, CSS, JS |
 
-- Question Management
-- Paper Generation Logic
-- Automation Approach
-- Future AI Enhancement
+</div>
 
-Technology:
-
-Python
-
+📌 *Explore my repositories to see my growth and real-world work*
 
 ---
 
-## 🌍 Tourism Website
+## 📊 GitHub Analytics
 
-Interactive travel information platform.
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LK-Prajapati07&theme=tokyonight" width="32%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LK-Prajapati07&theme=tokyonight" width="32%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LK-Prajapati07&theme=tokyonight" width="32%">
+</p>
 
-Features:
-
-- Responsive Design
-- User Friendly Interface
-- Dynamic Experience
-
-Technology:
-
-HTML • CSS • JavaScript
-
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LK-Prajapati07&theme=tokyonight" width="100%">
+</p>
 
 ---
 
-# 💻 Technology Stack
+## 📈 Contribution Activity
 
-
-## Programming Languages
-
-Java  
-JavaScript  
-Python  
-C  
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LK-Prajapati07&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## Frontend
+## 🛠 Technical Skills
 
-React.js  
-HTML5  
-CSS3  
-JavaScript  
-
-
----
-
-## Backend
-
-Node.js  
-Express.js  
-REST APIs  
-Axios  
-
+* **Languages:** Java, JavaScript, Python (Basic), C
+* **Frontend & Backend:** React.js, Node.js (MERN Stack)
+* **Databases:** MongoDB, MySQL
+* **Tools:** Git, GitHub, VS Code
+* **Web:** HTML, CSS, REST APIs, Axios
+* **Core:** Data Structures & Algorithms, AI & ML
 
 ---
 
-## Database
+## 📬 Contact Me
 
-MongoDB  
-MySQL  
+<p align="center">
 
+<a href="mailto:lalit.kumar.in07@gmail.com">
+<img src="https://img.shields.io/badge/Email-00C7B7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/lalit-kumar-1b64143a7">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## Developer Tools
+<a href="https://github.com/LK-Prajapati07">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Git  
-GitHub  
-VS Code  
+</p>
 
-
----
-
-## Computer Science Fundamentals
-
-Data Structures & Algorithms  
-Object Oriented Programming  
-Database Management System  
-Operating System Concepts  
-Artificial Intelligence  
-Machine Learning Basics  
-
+<p align="center">
+💼 Open for Internships • Collaboration • Opportunities
+</p>
 
 ---
 
-# 📚 Currently Learning
+## 🏆 Achievements
 
-2026 Growth Roadmap:
-
-✔ Advanced Java + DSA  
-✔ MERN Stack Mastery  
-✔ AI Integration with Web Apps  
-✔ Database Optimization  
-✔ Backend Scalability  
-✔ System Design Fundamentals  
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=LK-Prajapati07&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
 
 ---
 
-# 🧠 Developer Philosophy
+## 🔥 Top Contributions
 
-
-"First understand the problem.
-Then design the solution.
-Finally build technology that creates impact."
-
-
-Failure is not the opposite of success.
-
-Failure is feedback.
-
-Improve. Rebuild. Grow.
-
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=LK-Prajapati07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
 
 ---
 
-# 🎯 Goals
+## 💭 Developer Thought
 
-Short Term:
-
-- Build production-level projects
-- Improve problem solving
-- Contribute to open source
-- Get industry experience
-
-
-Long Term:
-
-- Become a skilled AI Software Engineer
-- Build impactful products
-- Work on large scale systems
-
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
-# 🤝 Let's Connect
+## 😂 Dev Fun
 
-
-Email:
-
-lalit.kumar.in07@gmail.com
-
-
-LinkedIn:
-
-www.linkedin.com/in/lalit-kumar-1b64143a7
-
-
-GitHub:
-
-github.com/LK-Prajapati07
-
+<p align="center">
+<img src="https://rm.up.railway.app/" width="500px"/>
+</p>
 
 ---
 
-Open For:
+<p align="center">
+⭐ <b>Code • Learn • Build • Repeat</b> ⭐
+</p>
 
-✓ Internship Opportunities  
-✓ Software Development Projects  
-✓ Open Source Collaboration  
-✓ Technical Discussions  
-
-
----
-
-# while(alive)
-
-{
-    learn();
-    build();
-    improve();
-}
-
----
-
-## Code. Learn. Build. Repeat.
-```
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=LK-Prajapati07&label=Profile%20Views&color=0&icon=5&pretty=true"/>
+</p> do not show any image change it and rewrite this file
